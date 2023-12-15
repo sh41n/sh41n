@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=정수현)
 
-//## 😼
-- 동미대 1학년
-- 인공지능소프트웨어학과
+## 😼
+- 🏫학교:동미대 1학년
+- 👩‍🚀학과:인공지능소프트웨어학과
+- 👀취미:누워서 유튜브보기,북서울 꿈의숲 걷거나 뛰면서 노래 듣기,밤에 영화보기,기타치기,잠자기😴😴
   
 
 //Java
