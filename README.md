@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=정수현)
 
-## 😼
+//## 😼
 - 동미대 1학년
 - 인공지능소프트웨어학과
   
